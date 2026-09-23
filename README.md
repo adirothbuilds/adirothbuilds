@@ -16,16 +16,7 @@
 
 <br>
 
-## What I am about
-
-```text
-01  Platform thinking       developer experience, delivery systems, useful abstractions
-02  Reliable operations      automation, observability, repeatable infrastructure
-03  Applied AI               agents and tooling that make engineering work sharper
-04  Building in public       experiments, workshops, and lessons from the work
-```
-
-## Current signal
+## Currently building
 
 <p>
 	<a href="https://tralupo.com/"><img height="56" src="https://tralupo.com/assets/img/icon-512.png" alt="Tralupo"></a>
@@ -34,8 +25,8 @@
 </p>
 
 - Building **[Tralupo](https://tralupo.com/)** privately with the **[tralupo-app](https://github.com/tralupo-app)** organization.
-- Exploring the intersection of **platform engineering, AI tooling, and developer workflows**.
-- Based in **Israel** and always interested in practical systems with real-world impact.
+- Building at the intersection of **platform engineering, AI tooling, and developer workflows**.
+- Based in **Israel**, focused on practical systems with real-world impact.
 
 ## Selected work
 
@@ -62,7 +53,7 @@
 	<img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex">
 </p>
 
-**AI engineering:** OpenAI Codex.
+**AI engineering:** agents, automation, developer tooling, and LLM integrations.
 
 ## GitHub, in motion
 
