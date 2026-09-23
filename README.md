@@ -59,11 +59,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adirothbuilds&theme=default" alt="Adi's GitHub profile summary">
-<img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adirothbuilds&theme=default" alt="Adi's repositories by language">
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=adirothbuilds&hide_border=true&background=00000000&ring=f97316&fire=f97316&currStreakLabel=0f766e&sideLabels=374151&currStreakNum=111827&sideNums=111827&dates=6b7280" alt="Adi's GitHub contribution streak">
 
 </div>
