@@ -60,7 +60,7 @@
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adirothbuilds&theme=default" alt="Adi's GitHub profile summary">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adirothbuilds&theme=default" alt="Adi's repositories by language">
+<img width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adirothbuilds&theme=default" alt="Adi's repositories by language">
 
 <br>
 
