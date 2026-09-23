@@ -59,8 +59,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adirothbuilds&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=f97316&text_color=374151&rank_icon=github" alt="Adi's GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adirothbuilds&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=374151" alt="Adi's top languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adirothbuilds&theme=default" alt="Adi's GitHub profile summary">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adirothbuilds&theme=default" alt="Adi's repositories by language">
 
 <br>
 
