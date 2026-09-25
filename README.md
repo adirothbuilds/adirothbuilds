@@ -25,6 +25,7 @@
 </p>
 
 - Building **[Tralupo](https://tralupo.com/)** privately with the **[tralupo-app](https://github.com/tralupo-app)** organization.
+- Contributing to **AX by Google**, using a **fork as a working space** to explore, iterate, and contribute back.
 - Building at the intersection of **platform engineering, AI tooling, and developer workflows**.
 - Based in **Israel**, focused on practical systems with real-world impact.
 
