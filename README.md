@@ -21,10 +21,13 @@
 <p>
 	<a href="https://tralupo.com/"><img height="56" src="https://tralupo.com/assets/img/icon-512.png" alt="Tralupo"></a>
 	&nbsp;&nbsp;
+	<a href="https://github.com/adirothbuilds/CoSoup"><img height="56" src="https://raw.githubusercontent.com/adirothbuilds/CoSoup/main/docs/assets/cosoup/mark.svg" alt="CoSoup"></a>
+	&nbsp;&nbsp;
 	<a href="https://github.com/stratza"><img height="56" src="https://github.com/stratza.png" alt="stratza organization"></a>
 </p>
 
 - Building **[Tralupo](https://tralupo.com/)** privately with the **[tralupo-app](https://github.com/tralupo-app)** organization.
+- Building **[CoSoup](https://github.com/adirothbuilds/CoSoup)**, a personal workspace for US equity research, market signals, and portfolio context.
 - Contributing to **AX by Google**, using a **fork as a working space** to explore, iterate, and contribute back.
 - Building at the intersection of **platform engineering, AI tooling, and developer workflows**.
 - Based in **Israel**, focused on practical systems with real-world impact.
@@ -33,6 +36,7 @@
 
 | Project | What it is |
 | --- | --- |
+| <img height="24" src="https://raw.githubusercontent.com/adirothbuilds/CoSoup/main/docs/assets/cosoup/mark.svg" alt=""> **[CoSoup](https://github.com/adirothbuilds/CoSoup)** | A personal workspace for US equity research, market signals, and portfolio context. |
 | <img height="24" src="https://github.com/stratza.png" alt=""> **[spindlex](https://github.com/stratza/spindlex)** | A project from the `stratza` organization. |
 | <img height="24" src="https://github.com/stratza.png" alt=""> **[Tiferea](https://github.com/stratza/Tiferea)** | A project from the `stratza` organization. |
 
